@@ -2,9 +2,7 @@
 
 Production build of a compact carrier board for the Raspberry Pi Compute Module 4 and Compute Module 5. The board combines USB-C data and power, Ethernet, 25 W PoE input, M.2 storage and essential peripheral connections in a 120 mm × 40 mm form factor.
 
-<p align="center">
-  <img src="documentation/images/cm5-carrier-board.jpg" alt="Assembled CM4/CM5 Carrier Board V1" width="900">
-</p>
+![Assembled CM4/CM5 Carrier Board V1](./documentation/images/cm5-carrier-board.jpg)
 
 ## Key Features
 
