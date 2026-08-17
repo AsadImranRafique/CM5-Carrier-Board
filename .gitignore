@@ -1,0 +1,28 @@
+# KiCad local settings
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_wks-bak
+*.kicad_sym-bak
+
+# KiCad cache and rescue files
+fp-info-cache
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+
+# Backup directories
+*-backups/
+_autosave-*
+*.bak
+
+# Lock files
+~$*
+*.lck
+*.lock
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
