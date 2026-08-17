@@ -51,7 +51,7 @@ This repository contains the KiCad design sources for the production V1 board, i
 
 ## License
 
-This hardware design is licensed under the [CERN Open Hardware Licence Version 2 – Permissive](LICENSE).
+This hardware design is licensed under the [Apache License 2.0](LICENSE).
 
 ## Author
 
